@@ -1,0 +1,366 @@
+[IsGoYouTubeSnaggerLangFile]
+TrueOrFalse=True
+
+[LanguagePackInfo]
+Name=es-es
+
+[Developers]
+Developers=Dessarolladores:
+Jonas=Jonas (Go! Visual Team), creador de la aplicación.
+
+[Credits]
+Credits=Creditos:
+Pierre=Pierre Bondoerffer (Xylem Studios), paquetes de idioma (francés y español).
+
+[MessageBoxCommands]
+DoNotShowThisMessageBoxAgain=No volver a mostrar.
+OK=&OK
+Cancel=&Cancelar
+Yes=&Sí
+No=&No
+Help=&Ayuda
+Retry=&Reintentar
+Save=&Guadar
+DoNotSave=&No guardar
+
+[SomeCommands]
+Copyright=Copyright © 2009 - 2011 Go! Visual Team™. Todos los derechos reservados.
+BestAvailable=Mejor disponible
+DownloadVideoTo=Descargar en...
+Stop=Parar
+StopAllDownloads=Parar todo
+Stopped=Parado
+Download=Descargar
+Downloading=Descargando
+Downloaded=Descargado
+EachSecond=/s
+Seconds=segundos
+Second=segundo
+Close=Cerrar
+Byte=byte
+YB=Yb
+ZB=Zb
+EB=Eb
+PB=Pb
+TB=Tb
+GB=Gb
+MB=Mb
+KB=Kb
+CurrentDownload=Descarga actual:
+AllDownloads=Todas las descargas:
+PleaseChooseAFolder=Por favor, elija una carpeta
+PleaseChooseALanguagePack=Por favor, elija un paquete de idioma
+Loading=Cargando...
+LoadingRelatedVideoInfos=Cargando información sobre videos relacionados...
+LoadedAllInformation=Información cargado!
+PleaseEnterAValidYouTubeVideoLink=Por favor, entre una dirección URL válida...
+Yes=Sí
+No=No
+Default=Por defecto
+SaveTumbnailImageAs=Guardar miniatura como...
+TheChoosenFileNameIsAlreadyAdded=El nombre elegido ya se ha agregado. Por favor, elige otro.
+DownloadError=Un error inesperado ocurrió, y la descarga se detuvo.
+TheLanguagePackIsAlreadyAdded=Este paquete de idioma ya está añadido!
+Error=Error!
+ANewVersionIsAvailable=Una nueva version está disponible
+WouldYouLikeToDownloadItNow=Quiere descargarla ahora?
+GoYouTubeSnaggerCanNotConnectToTheServer=Go! YouTube Snagger no pudo conectarse al servidor.
+PleaseTryAgainLater=Por favor, inténtelo de nuevo más tarde...
+AnUnexpectedErrorAppeared=Un error inesperado occurió
+GoYouTubeSnaggerIsAlreadyRunning=Go! YouTube Snagger ya se está ejecutando! Cierre la applicación y vuelva a intentarlo...
+YouHaveGotTheLatestVersionAvailable=Ya tiene la última versión!
+PleaseChooseAFolderWhereYouWantToLocateTheFilesOfTheInstallation=Seleccione un repertorio para la instalación.
+GoYouTubeSnaggerHasBeenSuccessfullyInstalledOnYourComputer=Go! YouTube Snagger ha sido instalado con éxito!
+GoYouTubeSnaggerHasBeenSuccessfullyUninstalledOnYourComputer=Go! YouTube Snagger ha sido desinstalado con éxito!
+GoYouTubeSnaggerHasBeenSuccessfullyRepaired=Go! YouTube Snagger ha sido reparado con éxito!
+Success=Éxito!
+WouldYouLikeToSaveChanges=Quiere guardar los cambios effectuados?
+TheSendingWasCancelled=El envio fue cancelado!
+ThankYouForSendingTheErrorReport=Gracias por enviar vuestro informe de error!
+WouldYouLikeToReportTheErrorToOurAdministators=Quiere enviar los detalles del error a los administradores?
+TheDownloadedFileHasNotGotAnyProgramBoundToIt=El archivo descargado no tiene une applicación asociada con él.&NEWLINE&Por favor descargue una applicación compatible con ese típo de archivo, como VLC Media Player.
+TheDownloadedFileDoesNotExists=El archivo descargado no existe, o ha sido movido/eliminado.
+ExportList=Exportar la lista...
+TheListIsExportedTo=La lista es exportada a:
+ImportList=Importar la lista...
+TheListIsImportedFrom=La lista es importada desde:
+TheListHasBeenSentToTheEmailAddress=La lista ha sido enviada a la dirección de correo electrónico.
+AnUnexpectedErrorOccurredAndTheCopyProcessDidNotSucces=Un error inesperade ha sucedido y el proceso de copia no tuvo éxito.
+NoViews=Sin visitas
+NoRatings=Sin puntuaciones
+Result=resultado:
+Results=resultados:
+NoResults=Sin resultados
+Page=Página
+Of=de
+Ready=Listo
+SearchingFor=Buscando
+Comment=comentario:
+Comments=comentatios:
+NoComments=Sin comentarios
+LoadingPage=Cargando página
+AreYouSureYouWouldLikeToCancelAllCurrentDownloads=¿Está seguro de que desea cancelar todas las descargas actuales?
+TheSecurityCodeYouTypedInIsIncorrectPleaseTryAgain=El código de seguridad es incorecto. Vuelva a intentarlo.
+
+[YouTubeInfo]
+Name=Título:
+Folder=Carpeta:
+Size=Talla:
+DownloadedBytes=Descargado:
+Remaining=Restante:
+TimeElapsed=Tiempo transcurrido:
+TimeLeft=Tiempo restante:
+DownloadSpeed=Velocidad de descarga:
+Status=Estado:
+
+[InfoGetter]
+ConnectingToYouTube=Conectando al servidor YouTube...
+CheckingIfYouTubeVideoIsValid=Verificando la dirección URL...
+ReceivingAllVideoInformation=Recibiendo información del vídeo...
+CheckingVideoQuality=Verificando calidad del vídeo...
+VideoQualityIsNotAvailable=Calidad no disponible. Por favor, elija otra...
+YouTubeVideoIsReadyForDownload=Vídeo lista a ser descargado!
+YouTubeVideoIsReadyToBeAdded=Vídeo lista a ser añadida!
+YouTubeVideoIsNotValid=Vídeo no válida...
+
+[SearchOptions]
+All=Todo
+Videos=Vídeos
+Channels=Canales
+Playlists=Listas de reproducción
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Relevance=Relevancia
+UploadDate=Fecha de subida
+ViewCount=Número de reproducciones
+Rating=Puntuación
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Anytime=Cualquier momento
+Today=Hoy
+ThisWeek=Esta semana
+ThisMonth=Este mes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+CarsAndVehicles=Automoción
+Comedy=Comedia
+Education=Formación
+Entertainment=Ocio
+FilmAndAnimation=Cine y animación
+Gaming=Juegos
+HowtoAndStyle=Consejos y estilo
+Music=Música
+NewsAndPolitics=Noticias y política
+Non-profitAndActivism=ONG y activismo
+PeopleAndBlogs=Gente y blogs
+PetsAndAnimals=Mascotas y animales
+ScienceAndTechnology=Ciencia y tecnología
+Sport=Deportes
+TravelAndEvents=Viajes y eventos
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Short=Corta (< 4 min.)
+Long=Larga (> 20 min.)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ClosedCaptions=Subtítulos cerrados
+HD=HD (alta definición)
+PartnerVideos=Vídeos de partners
+Rental=Alquiler
+WebM=WebM
+
+[frmMain]
+Text=Go! YouTube Snagger
+
+[frmMainControls]
+Status=Estado:
+FileName=Nombre:
+ID=#
+Folder=Carpeta
+VideoQuality=Calidad
+VideoTitle=Título
+Username=Usuario
+VideoID=ID de la vídeo
+VideoURL=Dirección URL
+Search=Buscar...
+AddVideo=Añadir vídeo...
+RemoveVideo(s)=Quitar vídeo(s)...
+OpenVideoURL=Abrir dirección URL...
+PlayVideo=Reproducir vídeo...
+ShowThumbnailImages=Ver miniaturas...
+ExportList=Exportar la lista...
+ImportList=Importar la lista...
+SendListTo=Enviar la lista a...
+MoveUp=Mover hacia arriba...
+MoveDown=Mover hacia abajo...
+CopyVideoID=Copiar ID
+CopyVideoURL=Copiar dirección URL
+AboutGoYouTubeSnagger=Acerca de Go! YouTube Snagger...
+Settings=Opciones...
+ReportBug=Enviar error...
+Exit=Cerrar...
+DownloadVideos=Descargar vídeos...
+
+[frmAbout]
+Text=Acerca de Go! YouTube Snagger
+
+[frmAboutControls]
+ThisProgramIsMadeByGoVisualTeamForMoreInformationPleaseVisitOurSite=Este programa ha sido creado por Go! Visual Team.&NEWLINE&Para más información, visite nuestra página web.
+
+[frmDownload]
+Text=Descargar...
+
+[frmDownloadControls]
+OpenVideo=Abrir vídeo
+OpenFolder=Abrir carpeta
+ShowRelatedVideos=Mostrar vídeos relacionados...
+Close=Cerrar
+
+[frmOptions]
+Text=Opciones...
+
+[frmOptionsControls]
+RestartGoYouTubeSnaggerForThisChangeToTakeEffect=Reinice Go! YouTube Snagger para que este cambio tenga efecto...
+StandardSavingLocation=Ubicación predeterminada:
+AutoSave=Usar autoguardado para guardar vídeos
+LanguagePacks=Paquetes de idioma:
+AddLanguagePack=&Añadir paquete de idioma
+Update=Actualización:
+CheckForUpdatesOnStartup=Buscar actualizaciones al inicio
+CheckForUpdates=&Buscar actualizaciones...
+Restart=&Restart Go! YouTube Snagger
+Cancel=&Cancel
+OK=&OK
+
+[frmRelatedVideos]
+Text=Vídeos relacionados...
+
+[frmRelatedVideosControls]
+Title=Título
+ID=#
+Username=Usuario
+VideoID=ID
+VideoURL=Dirección URL
+Status=Estado:
+Download=Descargar...
+OpenVideoURL=Abrir dirección URL...
+ShowThumbnailImages=Ver miniaturas...
+CopyVideoID=Copiar ID
+CopyVideoURL=Copiar dirección URL
+Close=Cerrar
+
+[frmVideoThumbnails]
+Text=Ver miniaturas...
+
+[frmVideoThumbnailsControls]
+Close=Cerrar
+SaveAs=Guardar como...
+
+[frmUpdater]
+Text=Actualizador...
+
+[frmUpdaterControls]
+Status=Estado:
+LookingForNewUpdates=Buscando actualizaciones...
+WhatsNew=Qué hay de nuevo?
+Download=Descargar...
+Cancel=Cancelar
+
+[frmSelectLanguage]
+Text=Seleccione un idioma...
+
+[frmSelectLanguageControls]
+PleaseChooseALanguage=Por favor seleccione un idioma:
+OK=&OK
+
+[frmInstaller]
+Text=Instalador de Go! YouTube Snagger
+
+[frmInstallerControls]
+WelcomeToGoYouTubeSnaggerInstallation=Bienvenido al instalador de Go! YouTube Snagger
+ChooseAFolderWhereYouWantGoYouTubeSnaggerToBeInstalled=Por favor seleccione el repertorio de instalación:
+CreateAShortcutOnDesktop=Crear un acceso directo en el escritorio...
+InstallationProgress=Progresión de la instalación
+RunGoYouTubeSnaggerWhenTheInstallationFinishes=Ejecutar Go! YouTube Snagger al terminar...
+StartInstallation=Empezar
+Close=&Cerrar
+GoYouTubeSnaggerIsAlreadyInstalledOnThisComputer=Go! YouTube Snagger ya está instalado en este ordenador
+Uninstall=&Desinstalar
+Repair=&Reparar
+UninstallProgress=Progresión de la desinstalación
+RepairProgress=Progresión de la reparación
+
+[frmChangeLog]
+Text=Qué hay de nuevo?
+
+[frmChangeLogControls]
+Close=&Cerrar
+
+[frmReportBug]
+Text=Enviar error...
+
+[frmReportBugControls]
+Name=* Nombre:
+ErrorMessage=* Mensaje:
+SecurityControl=* Control de seguridad:
+PleaseEnterCode=Entre el código:
+RefreshSecurityImage=Generar nueva imágen
+AudioVerification=Verificación por audio
+SendErrorMessage=&Enviar
+Cancel=&Cancelar...
+Close=&Cerrar
+
+[frmSendListTo]
+Text=Send list to...
+
+[frmSendListToControls]
+Name=* Nomber:
+From=* De (e-mail):
+To=* A (e-mail):
+Message=Mensaje (opcional):
+SendList=&Enviar lista...
+Cancel=C&ancelar
+Close=&Cerrar
+
+[frmChooseVideoQuality]
+Text=Seleccionar calidad...
+
+[frmChooseVideoQualityControls]
+OK=OK
+Cancel=Cancelar
+Status=Estado:
+
+[frmPlayVideo]
+Text=Reproducir vídeo...
+
+[frmSearchOptions]
+Text=Opciones de búsqueda
+
+[frmSearchOptionsControls]
+ResultType=Tipo de resultado:
+SortBy=Ordenar por:
+UploadDate=Fecha de subida:
+Categories=Categorías:
+Duration=Duración:
+Functions=Funciones:
+ResetOptions=Restablecer opciones
+OK=&OK
+Cancel=&Cancelar
+
+[frmSearch]
+Text=Búsqueda...
+
+[frmSearchControls]
+SearchKeyword=Buscar por palabra clave...
+SearchOptions=Opciones de búsqueda...
+SearchUsername=Buscar por usuario...
+UploadedVideos=Vídeos subidos
+Favorites=Favoritos
+Playlists=Listas de reproducción
+Status=Estado:
+Search=Búsqueda...
+ID=#
+Title=Título
+ViewCount=Visitas
+Username=Usuario
+Rating=Puntuación
+Goto=Ir a:
+PrevPage=< Página anterior
+NextPage=Página siguiente >
+AddVideosToList=Añadir vídeo(s) a la lista...
+Cancel=Cancelar

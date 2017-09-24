@@ -1,0 +1,466 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1D5E36C0-753B-4C59-A59A-F0CCADCA148D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Go__YouTube_Snagger.My.MyApplication</StartupObject>
+    <RootNamespace>Go__YouTube_Snagger</RootNamespace>
+    <AssemblyName>Go! YouTube Snagger</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Go! YouTube Snagger.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Go! YouTube Snagger.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>YS_Icons.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Google.GData.Client, Version=1.8.0.0, Culture=neutral, PublicKeyToken=04a59ca9b0273830, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Google.GData.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.GData.Extensions, Version=1.8.0.0, Culture=neutral, PublicKeyToken=0b4c5df2ebf20876, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Google.GData.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.GData.YouTube, Version=1.8.0.0, Culture=neutral, PublicKeyToken=af04a32718ae8833, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Google.GData.YouTube.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Components\CaptchaGenerator\CaptchaGenerator.vb" />
+    <Compile Include="Components\CommentBox\CommentBox.Designer.vb">
+      <DependentUpon>CommentBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Components\CommentBox\CommentBox.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\CommentBox\CommentBoxItem.Designer.vb">
+      <DependentUpon>CommentBoxItem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Components\CommentBox\CommentBoxItem.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\ControlCL.vb" />
+    <Compile Include="Components\ConvertByteToHighestAvailable\ConvertByte.vb" />
+    <Compile Include="Components\ExtendedBinaryReader.vb" />
+    <Compile Include="Components\GoGroupBox\GoGroupBox.Designer.vb">
+      <DependentUpon>GoGroupBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Components\GoGroupBox\GoGroupBox.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\GoImageBox\GoImageBox.designer.vb">
+      <DependentUpon>GoImageBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Components\GoImageBox\GoImageBox.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\GoManager\GoManager.Designer.vb">
+      <DependentUpon>GoManager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Components\GoManager\GoManager.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Components\GoManager\GoRenderer\GoColorTable.vb" />
+    <Compile Include="Components\GoManager\GoRenderer\GoHelpers.vb" />
+    <Compile Include="Components\GoManager\GoRenderer\GoRenderer.vb" />
+    <Compile Include="Components\GoProgressBar\GoProgressBar.designer.vb">
+      <DependentUpon>GoProgressBar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Components\GoProgressBar\GoProgressBar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\GoTextBox\GoTextBox.designer.vb">
+      <DependentUpon>GoTextBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Components\GoTextBox\GoTextBox.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\GrayScaleConverter.vb" />
+    <Compile Include="Components\InfoBar\InfoBar.Designer.vb">
+      <DependentUpon>InfoBar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Components\InfoBar\InfoBar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\IniFile\IniFile.designer.vb">
+      <DependentUpon>IniFile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Components\IniFile\IniFile.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Components\MessageBox\frmMessageBox.Designer.vb">
+      <DependentUpon>frmMessageBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Components\MessageBox\frmMessageBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Components\MessageBox\MessageBox.Designer.vb">
+      <DependentUpon>MessageBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Components\MessageBox\MessageBox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Components\NetFrameworkChecker\NetFrameworkChecker.vb" />
+    <Compile Include="Components\OpenURL\OpenURL.vb" />
+    <Compile Include="Components\Shell32.vb" />
+    <Compile Include="Components\Structures.vb" />
+    <Compile Include="Components\SystemFileProperties\SystemFileProperties.vb" />
+    <Compile Include="Components\UnBuggyListView\UnBuggyListView.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Components\VersionManager.vb" />
+    <Compile Include="Components\YouTube\YouTubeVideoFeed\YouTubeVideoFeedGetter.vb" />
+    <Compile Include="Components\YouTube\YouTubeVideoInfo\YouTubeVideoInfoGetter.vb" />
+    <Compile Include="Components\YouTube\YouTubeVideoThumbnail\YouTubeVideoThumbnailGetter.vb" />
+    <Compile Include="Forms\Dialogs\frmChooseVideoQuality.Designer.vb">
+      <DependentUpon>frmChooseVideoQuality.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Dialogs\frmChooseVideoQuality.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Dialogs\frmPlayVideo.Designer.vb">
+      <DependentUpon>frmPlayVideo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Dialogs\frmPlayVideo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Dialogs\frmRelatedVideos.Designer.vb">
+      <DependentUpon>frmRelatedVideos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Dialogs\frmRelatedVideos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Dialogs\frmReportBug.Designer.vb">
+      <DependentUpon>frmReportBug.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Dialogs\frmReportBug.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Dialogs\frmSearchOptions.Designer.vb">
+      <DependentUpon>frmSearchOptions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Dialogs\frmSearchOptions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSearch.Designer.vb">
+      <DependentUpon>frmSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Dialogs\frmSendListTo.Designer.vb">
+      <DependentUpon>frmSendListTo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Dialogs\frmSendListTo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Dialogs\frmVideoThumbnails.Designer.vb">
+      <DependentUpon>frmVideoThumbnails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Dialogs\frmVideoThumbnails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAbout.Designer.vb">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDownloadProgress.Designer.vb">
+      <DependentUpon>frmDownloadProgress.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDownloadProgress.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmOptions.Designer.vb">
+      <DependentUpon>frmOptions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmOptions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Components\CommentBox\CommentBox.resx">
+      <DependentUpon>CommentBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\CommentBox\CommentBoxItem.resx">
+      <DependentUpon>CommentBoxItem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\GoGroupBox\GoGroupBox.resx">
+      <DependentUpon>GoGroupBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\GoImageBox\GoImageBox.resx">
+      <DependentUpon>GoImageBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\GoProgressBar\GoProgressBar.resx">
+      <DependentUpon>GoProgressBar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\GoTextBox\GoTextBox.resx">
+      <DependentUpon>GoTextBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\InfoBar\InfoBar.resx">
+      <DependentUpon>InfoBar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\MessageBox\frmMessageBox.resx">
+      <DependentUpon>frmMessageBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Dialogs\frmChooseVideoQuality.resx">
+      <DependentUpon>frmChooseVideoQuality.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Dialogs\frmPlayVideo.resx">
+      <DependentUpon>frmPlayVideo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Dialogs\frmRelatedVideos.resx">
+      <DependentUpon>frmRelatedVideos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Dialogs\frmReportBug.resx">
+      <DependentUpon>frmReportBug.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Dialogs\frmSearchOptions.resx">
+      <DependentUpon>frmSearchOptions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSearch.resx">
+      <DependentUpon>frmSearch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Dialogs\frmSendListTo.resx">
+      <DependentUpon>frmSendListTo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Dialogs\frmVideoThumbnails.resx">
+      <DependentUpon>frmVideoThumbnails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAbout.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDownloadProgress.resx">
+      <DependentUpon>frmDownloadProgress.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmOptions.resx">
+      <DependentUpon>frmOptions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock_10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock_12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock_13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock_14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock_15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock_6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock_7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock_8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock_9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Downloaded.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Downloading.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Failed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paused.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stopped.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\youtube.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close.png" />
+    <None Include="Resources\menu_info.png" />
+    <None Include="Resources\document.png" />
+    <None Include="Resources\folder.png" />
+    <None Include="Resources\close_Hover.png" />
+    <None Include="Resources\close_Pressed.png" />
+    <None Include="Resources\close_Disabled.png" />
+    <None Include="Resources\close_Normal.png" />
+    <None Include="Resources\lock.png" />
+    <None Include="Resources\downloading_small.png" />
+    <None Include="Resources\failed_small.png" />
+    <None Include="Resources\paused_small.png" />
+    <None Include="Resources\stopped_small.png" />
+    <None Include="Resources\downloaded_small.png" />
+    <None Include="Resources\Information_Bar.wav" />
+    <None Include="Resources\speaker_selected.png" />
+    <None Include="Resources\speaker_normal.png" />
+    <None Include="Resources\reload_selected.png" />
+    <None Include="Resources\reload_normal.png" />
+    <Content Include="YS_Icons.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

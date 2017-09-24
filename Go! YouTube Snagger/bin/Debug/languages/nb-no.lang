@@ -1,0 +1,366 @@
+[IsGoYouTubeSnaggerLangFile]
+TrueOrFalse=True
+
+[LanguagePackInfo]
+Name=nb-no
+
+[Developers]
+Developers=Utviklere:
+Jonas=Jonas (Go! Visual Team), laget hele programmet.
+
+[Credits]
+Credits=Takk til:
+Pierre=Pierre Bondoerffer (Xylem Studios), fransk og spansk språkpakke.
+
+[MessageBoxCommands]
+DoNotShowThisMessageBoxAgain=Ikke vis denne meldingen på nytt.
+OK=&OK
+Cancel=&Avbryt
+Yes=&Ja
+No=&Nei
+Help=&Hjelp
+Retry=&Prøv på nytt
+Save=&Lagre
+DoNotSave=&Ikke lagre
+
+[SomeCommands]
+Copyright=Copyright © 2009 - 2011 Go! Visual Team™. Med enerett.
+BestAvailable=Beste tilgjengelig
+DownloadVideoTo=Last ned video til...
+Stop=Stopp
+StopAllDownloads=Stopp alle
+Stopped=Stoppet
+Download=Last ned
+Downloading=Laster ned
+Downloaded=Nedlastet
+EachSecond=/s
+Seconds=sekunder
+Second=sekund
+Close=Lukk
+Byte=byte
+YB=YB
+ZB=ZB
+EB=EB
+PB=PB
+TB=TB
+GB=GB
+MB=MB
+KB=KB
+CurrentDownload=Gjeldende nedlasting:
+AllDownloads=Alle nedlastinger:
+PleaseChooseAFolder=Vennligst velg en mappe...
+PleaseChooseALanguagePack=Vennligst velg en språkpakke...
+Loading=Laster inn...
+LoadingRelatedVideoInfos=Laster inn relaterte video infoer...
+LoadedAllInformation=Lastet inn all informasjon!
+PleaseEnterAValidYouTubeVideoLink=Vennligst skriv inn en gyldig YouTube video link...
+Yes=Ja
+No=Nei
+Default=Standard
+SaveTumbnailImageAs=Lagre minatyr bilde som...
+TheChoosenFileNameIsAlreadyAdded=Det valgte filnavnet er allerede lagt til. Vennligst velg et annet...
+DownloadError=En uventet feil dukket opp, og nedlastingen ble stoppet.
+TheLanguagePackIsAlreadyAdded=Språkpakken er allerede lagt til!
+Error=Feil!
+AnUnexpectedErrorAppeared=En uventet feil dukket opp
+GoYouTubeSnaggerIsAlreadyRunning=Go! YouTube Snagger kjører allerede! Vennligst lukk programmet, og prøv igjen...
+YouHaveGotTheLatestVersionAvailable=Du har den nyeste versjonen
+ANewVersionIsAvailable=En ny version er tilgjengelig!
+WouldYouLikeToDownloadItNow=Vil du laste den ned nå?
+GoYouTubeSnaggerCanNotConnectToTheServer=Go! YouTube Snagger kan ikke koble seg opp til serveren.
+PleaseTryAgainLater=Vennligst prøv igjen senere...
+PleaseChooseAFolderWhereYouWantToLocateTheFilesOfTheInstallation=Vennligst velg en mappe der du vil at programmet skal bli installert til.
+GoYouTubeSnaggerHasBeenSuccessfullyInstalledOnYourComputer=Go! YouTube Snagger har blitt installert på datamaskinen din!
+GoYouTubeSnaggerHasBeenSuccessfullyUninstalledOnYourComputer=Go! YouTube Snagger har blitt avinstallert på datamaskinen din!
+GoYouTubeSnaggerHasBeenSuccessfullyRepaired=Go! YouTube Snagger har blitt reparert!
+Success=Suksess!
+WouldYouLikeToSaveChanges=Vil du lagre endringer?
+TheSendingWasCancelled=Sendingen ble kansellert!
+ThankYouForSendingTheErrorReport=Takk for at du sendte inn feilmeldingen!
+WouldYouLikeToReportTheErrorToOurAdministators=Vil du rapportere feilen til våre administratorer?
+TheDownloadedFileHasNotGotAnyProgramBoundToIt=Den nedlastende filen har ikke et program bundet til seg selv.&NEWLINE&Vennligst last ned et program som støtter den gjeldende filen type, for eksempel gratis video/musikk-spilleren, VLC Media Player.
+TheDownloadedFileDoesNotExists=Den nedlastende filen eksisterer ikke, eller har blitt flyttet til en annen plassering.
+ExportList=Eksporter liste...
+TheListIsExportedTo=Listen er eksportert til:
+ImportList=Importer liste...
+TheListIsImportedFrom=Listen er importert fra:
+TheListHasBeenSentToTheEmailAddress=Listen er blitt sendt til e-post adressen.
+AnUnexpectedErrorOccurredAndTheCopyProcessDidNotSucces=An unexpected error occurred, and the copy process did not succes.
+NoViews=Ingen visninger
+NoRatings=Ingen vurdering
+Result=resultat:
+Results=resultater:
+NoResults=Ingen resultater
+Page=Side
+Of=av
+Ready=Klar
+SearchingFor=Søker etter
+Comment=kommentar:
+Comments=kommentarer:
+NoComments=Ingen kommentarer
+LoadingPage=Laster inn side
+AreYouSureYouWouldLikeToCancelAllCurrentDownloads=Er du sikker på at du vil stoppe de pågående nedlastingene?
+TheSecurityCodeYouTypedInIsIncorrectPleaseTryAgain=Sikkerhetskoden du har skrevet inn er feil! Vennligst prøv igjen.
+
+[YouTubeInfo]
+Name=Navn:
+Folder=Mappe:
+Size=Størrelse:
+DownloadedBytes=Lastet ned:
+Remaining=Gjenstår:
+TimeElapsed=Tid brukt:
+TimeLeft=Tid igjen:
+DownloadSpeed=Nedlastingshastighet:
+Status=Status:
+
+[InfoGetter]
+ConnectingToYouTube=Kobler til YouTube...
+CheckingIfYouTubeVideoIsValid=Sjekker for video tilgjengelighet...
+ReceivingAllVideoInformation=Mottar all informasjon...
+CheckingVideoQuality=Sjekker video kvalitet...
+VideoQualityIsNotAvailable=Den valgte video kvaliteten er ikke tilgjengelig. Vennligst velg en annen...
+YouTubeVideoIsReadyForDownload=YouTube video er klar til å bli lastet ned!
+YouTubeVideoIsReadyToBeAdded=YouTube video er klar for å bli lagt til!
+YouTubeVideoIsNotValid=YouTube videoen er ikke tilgjengelig...
+
+[SearchOptions]
+All=Alle
+Videos=Videoer
+Channels=Kanaler
+Playlists=Spillelister
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Relevance=Relevans
+UploadDate=Opplastingsdato
+ViewCount=Antall visninger
+Rating=Vurdering
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Anytime=Når som helst
+Today=I dag
+ThisWeek=Denne uken
+ThisMonth=Denne måneden
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+CarsAndVehicles=Biler og kjøretøy
+Comedy=Komedie
+Education=Utdannelse
+Entertainment=Underholdning
+FilmAndAnimation=Film og Animasjon
+Gaming=Spill
+HowtoAndStyle=Instruksjoner og stil
+Music=Musikk
+NewsAndPolitics=Nyheter og politikk
+Non-profitAndActivism=Ideell og aktivist
+PeopleAndBlogs=Mennesker og blogger
+PetsAndAnimals=Kjæledyr og dyr
+ScienceAndTechnology=Vitenskap og teknologi
+Sport=Sport
+TravelAndEvents=Reise og arrangementer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Short=Kort (under 4 min.)
+Long=Lang (over 20 min.)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ClosedCaptions=Spesialtekst
+HD=HD (High Definition – høy oppløsning)
+PartnerVideos=Partnervideoer
+Rental=Leievideo
+WebM=WebM
+
+[frmMain]
+Text=Go! YouTube Snagger
+
+[frmMainControls]
+Status=Status:
+FileName=Filnavn
+ID=#
+Folder=Mappe
+VideoQuality=Video kvalitet
+VideoTitle=Video tittel
+Username=Brukernavn
+VideoID=Video ID
+VideoURL=Video link
+Search=Søk etter...
+AddVideo=Legg til video...
+RemoveVideo(s)=Fjern video(er)...
+OpenVideoURL=Åpne video link...
+PlayVideo=Spill av video...
+ShowThumbnailImages=Vis miniatyr bilder...
+ExportList=Eksporter liste...
+ImportList=Importer liste...
+SendListTo=Send liste til...
+MoveUp=Flytt opp...
+MoveDown=Flytt ned...
+CopyVideoID=Kopier video ID
+CopyVideoURL=Kopier video link
+AboutGoYouTubeSnagger=Om Go! YouTube Snagger...
+Settings=Innstillinger...
+ReportBug=Raporter en feil...
+Exit=Avslutt...
+DownloadVideos=Last ned videoer...
+
+[frmAbout]
+Text=Om Go! YouTube Snagger
+
+[frmAboutControls]
+ThisProgramIsMadeByGoVisualTeamForMoreInformationPleaseVisitOurSite=Dette programmet er laget av Go! Visual Team.&NEWLINE&For mer informasjon, vennligst besøk siden vår.
+
+[frmDownload]
+Text=Last ned...
+
+[frmDownloadControls]
+OpenVideo=Åpne video
+OpenFolder=Åpne mappe
+ShowRelatedVideos=Vis relaterte videoer...
+Close=Lukk
+
+[frmOptions]
+Text=Instillinger...
+
+[frmOptionsControls]
+RestartGoYouTubeSnaggerForThisChangeToTakeEffect=Start Go! YouTube Snagger på nytt for at endringen skal tre i kraft...
+StandardSavingLocation=Standard lagringssted:
+AutoSave=Bruk autolagring når du laster ned videoer
+LanguagePacks=Språkpakker:
+AddLanguagePack=&Legg til språkpakke
+Update=Oppdatering:
+CheckForUpdatesOnStartup=Se etter oppdateringer ved oppstart
+CheckForUpdates=&Se etter oppdateringer...
+Restart=&Restart Go! YouTube Snagger
+Cancel=&Avbryt
+OK=&OK
+
+[frmRelatedVideos]
+Text=Relaterte videoer...
+
+[frmRelatedVideosControls]
+Title=Tittel
+ID=#
+Username=Brukernavn
+VideoID=Video ID
+VideoURL=Video link
+Status=Status:
+Download=Last ned...
+OpenVideoURL=Åpne video link...
+ShowThumbnailImages=Vis miniatyr bilder...
+CopyVideoID=Kopier video ID
+CopyVideoURL=Kopier video link
+Close=Lukk
+
+[frmVideoThumbnails]
+Text=Video miniatyr bilder...
+
+[frmVideoThumbnailsControls]
+Close=Lukk
+SaveAs=Lagre som...
+
+[frmUpdater]
+Text=Oppdaterer...
+
+[frmUpdaterControls]
+Status=Status:
+LookingForNewUpdates=Ser etter nye oppdateringer...
+WhatsNew=Hva er nytt?
+Download=Last ned...
+Cancel=Avbryt
+
+[frmSelectLanguage]
+Text=Velg språk...
+
+[frmSelectLanguageControls]
+PleaseChooseALanguage=Vennligst velg ett språk:
+OK=&OK
+
+[frmInstaller]
+Text=Go! YouTube Snagger Installasjon
+
+[frmInstallerControls]
+WelcomeToGoYouTubeSnaggerInstallation=Velkommen til Go! YouTube Snagger installasjon
+ChooseAFolderWhereYouWantGoYouTubeSnaggerToBeInstalled=Velg en mappe for hvor du vil at Go! YouTube Snagger skal installeres:
+CreateAShortcutOnDesktop=Lag en snarvei på skrivebordet...
+InstallationProgress=Installasjons fremdrift
+RunGoYouTubeSnaggerWhenTheInstallationFinishes=Kjør Go! YouTube Snagger når installasjonen er ferdig...
+StartInstallation=Start installasjon
+Close=&Lukk
+GoYouTubeSnaggerIsAlreadyInstalledOnThisComputer=Go! YouTube Snagger er allerede installert på denne datamaskinen
+Uninstall=&Avinstaller
+Repair=&Reparer
+UninstallProgress=Avinstallasjons fremdrift
+RepairProgress=Reperasjons fremdrift
+
+[frmChangeLog]
+Text=Hva er nytt?
+
+[frmChangeLogControls]
+Close=&Lukk
+
+[frmReportBug]
+Text=Raporter en feil...
+
+[frmReportBugControls]
+Name=* Navn:
+ErrorMessage=* Feilmelding:
+SecurityControl=* Sikkerhets kontrol
+PleaseEnterCode=Skriv inn kode:
+RefreshSecurityImage=Last inn nytt sikkerthetsbilde
+AudioVerification=Lyd bekreftelse
+SendErrorMessage=&Send feilmeldig
+Cancel=&Avbryt...
+Close=&Lukk
+
+[frmSendListTo]
+Text=Send liste til...
+
+[frmSendListToControls]
+Name=* Navn:
+From=* Fra (e-post):
+To=* Til (e-post):
+Message=Melding (valgfritt):
+SendList=&Send liste...
+Cancel=&Avbryt
+Close=&Lukk
+
+[frmChooseVideoQuality]
+Text=Velg video kvalitet...
+
+[frmChooseVideoQualityControls]
+OK=OK
+Cancel=Avbryt
+Status=Status:
+
+[frmPlayVideo]
+Text=Spill av video...
+
+[frmSearchOptions]
+Text=Søkealternativer
+
+[frmSearchOptionsControls]
+ResultType=Resultattype:
+SortBy=Sorter etter:
+UploadDate=Opplastingsdato:
+Categories=Kategorier:
+Duration=Vardighet:
+Functions=Funsjoner:
+ResetOptions=Tilbakestill alternativer
+OK=&OK
+Cancel=&Avbryt
+
+[frmSearch]
+Text=Søk etter...
+
+[frmSearchControls]
+SearchKeyword=Søk etter søkeord...
+SearchOptions=Søkealternativer...
+SearchUsername=Søk fra brukernavn...
+UploadedVideos=Opplastet videoer
+Favorites=Favoritter
+Playlists=Spillelister
+Status=Status:
+Search=Søk etter...
+ID=#
+Title=Tittel
+ViewCount=Visninger
+Username=Brukernavn
+Rating=Vurdering
+Goto=Gå til:
+PrevPage=< Forrige side
+NextPage=Neste side >
+AddVideosToList=Legg til video(er) i liste...
+Cancel=Avbryt

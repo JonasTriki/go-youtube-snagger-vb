@@ -1,0 +1,52 @@
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\bin\Debug\Go! YouTube Snagger Installer.exe
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\bin\Debug\Go! YouTube Snagger Installer.pdb
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\bin\Debug\Go! YouTube Snagger Installer.xml
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go__YouTube_Snagger_Installer.Resources.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go! YouTube Snagger Installer.exe
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go! YouTube Snagger Installer.xml
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go! YouTube Snagger Installer.pdb
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go__YouTube_Snagger_Installer.GoProgressBar.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go__YouTube_Snagger_Installer.GoTextBox.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go__YouTube_Snagger_Installer.frmMessageBox.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go__YouTube_Snagger_Installer.frmInstaller.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go__YouTube_Snagger_Installer.frmSelectLanguage.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\bin\Debug\Go! YouTube Snagger Installer.exe.config
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Installer\bin\Debug\Go! YouTube Snagger Installer.exe.config
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Installer\bin\Debug\Go! YouTube Snagger Installer.exe
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Installer\bin\Debug\Go! YouTube Snagger Installer.pdb
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Installer\bin\Debug\Go! YouTube Snagger Installer.xml
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go__YouTube_Snagger_Installer.GoProgressBar.resources
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go__YouTube_Snagger_Installer.GoTextBox.resources
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go__YouTube_Snagger_Installer.frmMessageBox.resources
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go__YouTube_Snagger_Installer.frmInstaller.resources
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go__YouTube_Snagger_Installer.frmSelectLanguage.resources
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go__YouTube_Snagger_Installer.Resources.resources
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go! YouTube Snagger Installer.exe
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go! YouTube Snagger Installer.xml
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go! YouTube Snagger Installer.pdb
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\bin\Debug\Go! YouTube Snagger Installer.exe.config
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\bin\Debug\Go! YouTube Snagger Installer.exe
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\bin\Debug\Go! YouTube Snagger Installer.pdb
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\bin\Debug\Go! YouTube Snagger Installer.xml
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go__YouTube_Snagger_Installer.GoProgressBar.resources
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go__YouTube_Snagger_Installer.GoTextBox.resources
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go__YouTube_Snagger_Installer.frmMessageBox.resources
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go__YouTube_Snagger_Installer.frmInstaller.resources
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go__YouTube_Snagger_Installer.frmSelectLanguage.resources
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go__YouTube_Snagger_Installer.Resources.resources
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go! YouTube Snagger Installer.exe
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go! YouTube Snagger Installer.xml
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go! YouTube Snagger Installer.pdb
+H:\BACKUPS\Laptop backup\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\bin\Debug\Go! YouTube Snagger Installer.exe.config
+H:\BACKUPS\Laptop backup\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go! YouTube Snagger Installer.exe
+H:\BACKUPS\Laptop backup\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go! YouTube Snagger Installer.xml
+H:\BACKUPS\Laptop backup\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Installer\obj\x86\Debug\Go! YouTube Snagger Installer.pdb

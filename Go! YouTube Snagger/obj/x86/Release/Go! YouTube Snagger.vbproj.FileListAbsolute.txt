@@ -1,0 +1,24 @@
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\bin\Release\Go! YouTube Snagger.exe.config
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\bin\Release\Go! YouTube Snagger.exe
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\bin\Release\Go! YouTube Snagger.pdb
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\bin\Release\Go! YouTube Snagger.xml
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\obj\x86\Release\Go__YouTube_Snagger.GoProgressBar.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\obj\x86\Release\Go__YouTube_Snagger.GoTextBox.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\obj\x86\Release\Go__YouTube_Snagger.InfoBar.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\obj\x86\Release\Go__YouTube_Snagger.frmMessageBox.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\obj\x86\Release\Go__YouTube_Snagger.frmDownloadMultipleVideos.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\obj\x86\Release\Go__YouTube_Snagger.frmRelatedVideos.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\obj\x86\Release\Go__YouTube_Snagger.frmDownloadVideo.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\obj\x86\Release\Go__YouTube_Snagger.frmVideoThumbnails.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\obj\x86\Release\Go__YouTube_Snagger.frmAbout.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\obj\x86\Release\Go__YouTube_Snagger.frmDownloadProgress.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\obj\x86\Release\Go__YouTube_Snagger.frmMain.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\obj\x86\Release\Go__YouTube_Snagger.frmVideoInformation.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\obj\x86\Release\Go__YouTube_Snagger.frmOptions.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\obj\x86\Release\Go__YouTube_Snagger.Resources.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\obj\x86\Release\Go! YouTube Snagger.exe
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\obj\x86\Release\Go! YouTube Snagger.xml
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\obj\x86\Release\Go! YouTube Snagger.pdb

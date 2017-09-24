@@ -1,0 +1,52 @@
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\bin\Debug\Go! YouTube Snagger Updater.exe
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\bin\Debug\Go! YouTube Snagger Updater.pdb
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\bin\Debug\Go! YouTube Snagger Updater.xml
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go__YouTube_Snagger_Updater.GoProgressBar.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go__YouTube_Snagger_Updater.Resources.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go! YouTube Snagger Updater.exe
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go! YouTube Snagger Updater.xml
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go! YouTube Snagger Updater.pdb
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go__YouTube_Snagger_Updater.frmMessageBox.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\bin\Debug\Go! YouTube Snagger Updater.exe.config
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\bin\Debug\Go! YouTube Snagger Updater.exe.config
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\bin\Debug\Go! YouTube Snagger Updater.exe
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\bin\Debug\Go! YouTube Snagger Updater.pdb
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger\bin\Debug\Go! YouTube Snagger Updater.xml
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go__YouTube_Snagger_Updater.frmUpdater.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go__YouTube_Snagger_Updater.GoTextBox.resources
+C:\Users\Jonas\Documents\Visual Studio 2010\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go__YouTube_Snagger_Updater.frmChangeLog.resources
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger\bin\Debug\Go! YouTube Snagger Updater.exe.config
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger\bin\Debug\Go! YouTube Snagger Updater.exe
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger\bin\Debug\Go! YouTube Snagger Updater.pdb
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger\bin\Debug\Go! YouTube Snagger Updater.xml
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go__YouTube_Snagger_Updater.GoProgressBar.resources
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go__YouTube_Snagger_Updater.GoTextBox.resources
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go__YouTube_Snagger_Updater.frmChangeLog.resources
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go__YouTube_Snagger_Updater.frmUpdater.resources
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go__YouTube_Snagger_Updater.frmMessageBox.resources
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go__YouTube_Snagger_Updater.Resources.resources
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go! YouTube Snagger Updater.exe
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go! YouTube Snagger Updater.xml
+C:\Users\Jonas\Desktop\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go! YouTube Snagger Updater.pdb
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger\bin\Debug\Go! YouTube Snagger Updater.exe.config
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger\bin\Debug\Go! YouTube Snagger Updater.exe
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger\bin\Debug\Go! YouTube Snagger Updater.pdb
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger\bin\Debug\Go! YouTube Snagger Updater.xml
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go__YouTube_Snagger_Updater.GoProgressBar.resources
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go__YouTube_Snagger_Updater.GoTextBox.resources
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go__YouTube_Snagger_Updater.frmChangeLog.resources
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go__YouTube_Snagger_Updater.frmUpdater.resources
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go__YouTube_Snagger_Updater.frmMessageBox.resources
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go__YouTube_Snagger_Updater.Resources.resources
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go! YouTube Snagger Updater.exe
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go! YouTube Snagger Updater.xml
+C:\Users\Jonas\Desktop\newstuff\Projects\Projects\Go! YouTube Snagger\Go! YouTube Snagger Updater\obj\x86\Debug\Go! YouTube Snagger Updater.pdb

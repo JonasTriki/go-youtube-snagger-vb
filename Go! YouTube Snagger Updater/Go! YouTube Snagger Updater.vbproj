@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DF848B83-79A8-4C31-A831-9FF6B040577B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Go__YouTube_Snagger_Updater.My.MyApplication</StartupObject>
+    <RootNamespace>Go__YouTube_Snagger_Updater</RootNamespace>
+    <AssemblyName>Go! YouTube Snagger Updater</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>..\Go! YouTube Snagger\bin\Debug\</OutputPath>
+    <DocumentationFile>Go! YouTube Snagger Updater.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Go! YouTube Snagger Updater.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>YS_Icons.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Components\ConvertByteToHighestAvailable\ConvertByte.vb" />
+    <Compile Include="Components\GoProgressBar\GoProgressBar.designer.vb">
+      <DependentUpon>GoProgressBar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Components\GoProgressBar\GoProgressBar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\GoTextBox\GoTextBox.designer.vb">
+      <DependentUpon>GoTextBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Components\GoTextBox\GoTextBox.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\GrayScaleConverter.vb" />
+    <Compile Include="Components\IniFile\IniFile.designer.vb">
+      <DependentUpon>IniFile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Components\IniFile\IniFile.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Components\Shell32.vb" />
+    <Compile Include="Forms\frmChangeLog.Designer.vb">
+      <DependentUpon>frmChangeLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmChangeLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmUpdater.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmUpdater.Designer.vb">
+      <DependentUpon>frmUpdater.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Components\MessageBox\frmMessageBox.Designer.vb">
+      <DependentUpon>frmMessageBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Components\MessageBox\frmMessageBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Components\MessageBox\MessageBox.Designer.vb">
+      <DependentUpon>MessageBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Components\MessageBox\MessageBox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Components\VersionManager.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Components\GoProgressBar\GoProgressBar.resx">
+      <DependentUpon>GoProgressBar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\GoTextBox\GoTextBox.resx">
+      <DependentUpon>GoTextBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmChangeLog.resx">
+      <DependentUpon>frmChangeLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmUpdater.resx">
+      <DependentUpon>frmUpdater.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\MessageBox\frmMessageBox.resx">
+      <DependentUpon>frmMessageBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stopped_small.png" />
+    <None Include="Resources\Stopped.png" />
+    <None Include="Resources\paused_small.png" />
+    <None Include="Resources\Paused.png" />
+    <None Include="Resources\failed_small.png" />
+    <None Include="Resources\Failed.png" />
+    <None Include="Resources\downloading_small.png" />
+    <None Include="Resources\Downloading.png" />
+    <None Include="Resources\downloaded_small.png" />
+    <None Include="Resources\Downloaded.png" />
+    <None Include="Resources\Clock_9.png" />
+    <None Include="Resources\Clock_8.png" />
+    <None Include="Resources\Clock_7.png" />
+    <None Include="Resources\Clock_6.png" />
+    <None Include="Resources\Clock_5.png" />
+    <None Include="Resources\Clock_4.png" />
+    <None Include="Resources\Clock_3.png" />
+    <None Include="Resources\Clock_2.png" />
+    <None Include="Resources\Clock_16.png" />
+    <None Include="Resources\Clock_15.png" />
+    <None Include="Resources\Clock_14.png" />
+    <None Include="Resources\Clock_13.png" />
+    <None Include="Resources\Clock_12.png" />
+    <None Include="Resources\Clock_11.png" />
+    <None Include="Resources\Clock_10.png" />
+    <None Include="Resources\Clock_1.png" />
+    <None Include="Resources\Critical_sound.wav" />
+    <None Include="Resources\Exlamation_sound.wav" />
+    <None Include="Resources\Help_sound.wav" />
+    <None Include="Resources\Information_Bar.wav" />
+    <None Include="Resources\Information_sound.wav" />
+    <None Include="Resources\lock.png" />
+    <Content Include="YS_Icons.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

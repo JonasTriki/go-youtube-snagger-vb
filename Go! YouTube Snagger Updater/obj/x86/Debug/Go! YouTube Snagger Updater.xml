@@ -1,0 +1,353 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Go!YouTubeSnaggerUpdater
+</name>
+</assembly>
+<members>
+<member name="P:Go__YouTube_Snagger_Updater.GoProgressBar.BlockColor">
+	<summary>
+ Gets or sets the colors for blocks in the bar.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoProgressBar.BorderColor">
+	<summary>
+ Gets or sets the border color.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoProgressBar.BackgroundColor">
+	<summary>
+ Gets or sets the background color.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoProgressBar.TextFont">
+	<summary>
+ Gets or sets the font to the text.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoProgressBar.TextColor">
+	<summary>
+ Gets or sets the color to the text.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoProgressBar.Value">
+	<summary>
+ Gets or sets the value.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoProgressBar.MinValue">
+	<summary>
+ Gets or sets the minimum value.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoProgressBar.MaxValue">
+	<summary>
+ Gets or sets the maximum value.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoProgressBar.CutRadius">
+	<summary>
+ Gets or sets the cut for the radius on the border.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoProgressBar.Icon">
+	<summary>
+ Gets or sets the icon.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoProgressBar.ShowIcon">
+	<summary>
+ Gets or sets indicating if the icon should be showed.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoProgressBar.ShowText">
+	<summary>
+ Gets or sets indicating if the text should be showed.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoProgressBar.ExtraText">
+	<summary>
+ Gets or sets the extra text.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoProgressBar.Percentage">
+	<summary>
+ Returns the current percentage.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.VersionManager.RunningOnXP">
+	<summary>
+ Determines if the application is running on XP.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger_Updater.VersionManager.RunningOnVista">
+	<summary>
+ Determines if the application is running on Vista.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger_Updater.VersionManager.RunningOnWin7">
+	<summary>
+ Determines if the application is running on Windows 7.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger_Updater.VersionManager.RunningOnWinXPOrUp">
+	<summary>
+ Determines if the application is running on Windows XP or up.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.Object">
+	<summary>
+ Returns the GoTextBox.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.UseFileNameCharacters">
+	<summary>
+ Gets or sets indicating if the textbox only should not allow the filename charaters.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.AutoCompleteSource">
+	<summary>
+ Gets or sets the AutoCompleteSource.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.AutoCompleteMode">
+	<summary>
+ Gets or sets the AutoCompleteMode.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.AutoCompleteCustomSource">
+	<summary>
+ Gets or sets the AutoCompleteCustomSource.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.Icon">
+	<summary>
+ Gets or sets the image to be previewed.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.ShowIsReadOnlyIcon">
+	<summary>
+ Gets or sets indicating if the read-only icon should be showed, or not.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.ShowIcon">
+	<summary>
+ Gets or sets indicating if the icon should be showed, or not.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.CutRadius">
+	<summary>
+ Gets or sets the cut for the radius on the border.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.ContextMenuStrip">
+	<summary>
+ Gets or sets the context menu strip.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.UseSystemPasswordChar">
+	<summary>
+ Gets or sets indicating if the textbox should use the system password char, or not.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.PasswordChar">
+	<summary>
+ Gets or sets the password char.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.MultiLine">
+	<summary>
+ Gets or sets indicating if the textbox should be multiline, or not.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.ScrollBars">
+	<summary>
+ Gets or sets the scrollbars to the textbox.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.IsReadOnly">
+	<summary>
+ Gets or sets indicating if the textbox should be read only, or not.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.Text">
+	<summary>
+ Gets or sets the text to the control.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.BackgroundColor">
+	<summary>
+ Gets or sets the background color.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.NormalBorderColor">
+	<summary>
+ Gets or sets the normal border color.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.HoverBorderColor">
+	<summary>
+ Gets or sets the hover border color.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.SelectedBorderColor">
+	<summary>
+ Gets or sets the selected border color.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.DisabledBorderColor">
+	<summary>
+ Gets or sets the disabled border color.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.Disabled">
+	<summary>
+ Return's the control's disabled state.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.Selected">
+	<summary>
+ Return's the controls selected state.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.GoTextBox.Hover">
+	<summary>
+ Return's the controls hover state.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Go__YouTube_Snagger_Updater.GrayScaleConverter.ColorImageToGrayScaleImage(System.Drawing.Image)">
+	<summary>
+ Converts an image to grayscale
+ </summary>
+	<param name="inputImage">The image to be converted.</param>
+	<returns>Return's the input image, but with grayscale</returns>
+	<remarks></remarks>
+</member><member name="M:Go__YouTube_Snagger_Updater.IniFile.#ctor(System.String)">
+	<summary>
+ Initializes a new instance of the GoVisualTeam.IniFile class.
+ </summary>
+	<param name="Filename">The filename of the Inifile.</param>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.IniFile.FileName">
+	<summary>
+ Return's the filename of the INI file.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Go__YouTube_Snagger_Updater.IniFile.GetString(System.String,System.String,System.String)">
+	<summary>
+ Returns a string from the INI file.
+ </summary>
+	<param name="Section">The selection to get the string from.</param>
+	<param name="Key">The key to get the string from.</param>
+	<param name="Default">The default value.</param>
+	<remarks></remarks>
+</member><member name="M:Go__YouTube_Snagger_Updater.IniFile.GetInteger(System.String,System.String,System.Int32)">
+	<summary>
+ Returns an integer from the INI file.
+ </summary>
+	<param name="Section">The selection to get the integer from.</param>
+	<param name="Key">The key to get the integer from.</param>
+	<param name="Default">The default value.</param>
+	<remarks></remarks>
+</member><member name="M:Go__YouTube_Snagger_Updater.IniFile.GetBoolean(System.String,System.String,System.Boolean)">
+	<summary>
+ Returns a boolean from the INI file.
+ </summary>
+	<param name="Section">The selection to get the boolean from.</param>
+	<param name="Key">The key to get the boolean from.</param>
+	<param name="Default">The default value.</param>
+	<remarks></remarks>
+</member><member name="M:Go__YouTube_Snagger_Updater.IniFile.WriteString(System.String,System.String,System.String)">
+	<summary>
+ Writes a string to the INI file.
+ </summary>
+	<param name="Section">The selection to write in. If it doesn't exist, it creates a new with the name.</param>
+	<param name="Key">The key to write.</param>
+	<param name="Value">The string value to write on the key.</param>
+	<remarks></remarks>
+</member><member name="M:Go__YouTube_Snagger_Updater.IniFile.WriteInteger(System.String,System.String,System.Int32)">
+	<summary>
+ Writes an integer to the INI file.
+ </summary>
+	<param name="Section">The selection to write in. If it doesn't exist, it creates a new with the name.</param>
+	<param name="Key">The key to write.</param>
+	<param name="Value">The integer value to write on the key.</param>
+	<remarks></remarks>
+</member><member name="M:Go__YouTube_Snagger_Updater.IniFile.WriteBoolean(System.String,System.String,System.Boolean)">
+	<summary>
+ Writes a boolean to the INI file.
+ </summary>
+	<param name="Section">The selection to write in. If it doesn't exist, it creates a new with the name.</param>
+	<param name="Key">The key to write.</param>
+	<param name="Value">The boolean value to write on the key.</param>
+	<remarks></remarks>
+</member><member name="M:Go__YouTube_Snagger_Updater.IniFile.Flush">
+	<summary>
+ Stores all the cached changes to the INI file.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Go__YouTube_Snagger_Updater.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Go__YouTube_Snagger_Updater.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Go__YouTube_Snagger_Updater.MessageBox.#ctor(System.String,Go__YouTube_Snagger_Updater.MessageBox.MessageButtons,Go__YouTube_Snagger_Updater.MessageBox.MessageIcons,System.String,System.Drawing.Icon,System.Boolean,System.Boolean)">
+	<summary>
+ Creates a new MessageBox.
+ </summary>
+	<param name="Message">The message to show.</param>
+	<param name="MessageButton">The button style.</param>
+	<param name="MessageIcon">The icon to show.</param>
+	<param name="Title">The title.</param>
+	<param name="Icon">The icon to the form.</param>
+	<param name="IsDoNotShowAgainCheckBoxChecked"></param>
+	<param name="ShowDoNotShowAgainCheckBox"></param>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.MessageBox.Message">
+	<summary>
+ Gets or sets the MessageBoxText.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.MessageBox.MessageTitle">
+	<summary>
+ Gets or sets the MessageTitle.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.MessageBox.MessageBoxIcon">
+	<summary>
+ Gets or sets the MessageBoxIcon.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.MessageBox.MessageIcon">
+	<summary>
+ Gets or sets the MessageIcon.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.MessageBox.MessageButton">
+	<summary>
+ Gets or sets the MessageButton.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.MessageBox.ShowDoNotShowAgainCheckBox">
+	<summary>
+ Gets or sets indicating if the DoNotShowAgainCheckBox is visible.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger_Updater.MessageBox.IsDoNotShowAgainCheckBoxChecked">
+	<summary>
+ Gets the result of the DoNotShowAgainCheckBox.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Go__YouTube_Snagger_Updater.MessageBox.ShowDialog">
+	<summary>
+ Show's the MessageBoxDialog.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

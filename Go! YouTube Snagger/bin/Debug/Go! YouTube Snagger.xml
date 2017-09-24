@@ -1,0 +1,725 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Go!YouTubeSnagger
+</name>
+</assembly>
+<members>
+<member name="P:Go__YouTube_Snagger.GoProgressBar.BlockColor">
+	<summary>
+ Gets or sets the colors for blocks in the bar.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoProgressBar.BorderColor">
+	<summary>
+ Gets or sets the border color.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoProgressBar.BackgroundColor">
+	<summary>
+ Gets or sets the background color.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoProgressBar.TextFont">
+	<summary>
+ Gets or sets the font to the text.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoProgressBar.TextColor">
+	<summary>
+ Gets or sets the color to the text.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoProgressBar.Value">
+	<summary>
+ Gets or sets the value.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoProgressBar.MinValue">
+	<summary>
+ Gets or sets the minimum value.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoProgressBar.MaxValue">
+	<summary>
+ Gets or sets the maximum value.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoProgressBar.CutRadius">
+	<summary>
+ Gets or sets the cut for the radius on the border.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoProgressBar.Icon">
+	<summary>
+ Gets or sets the icon.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoProgressBar.ShowIcon">
+	<summary>
+ Gets or sets indicating if the icon should be showed.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoProgressBar.ShowText">
+	<summary>
+ Gets or sets indicating if the text should be showed.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoProgressBar.ExtraText">
+	<summary>
+ Gets or sets the extra text.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoProgressBar.Percentage">
+	<summary>
+ Returns the current percentage.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoImageBox.BorderSize">
+	<summary>
+ Gets or sets the border size on the control.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoImageBox.BorderColor">
+	<summary>
+ Gets or sets the border color on the control.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoImageBox.ImageStyle">
+	<summary>
+ Gets or sets the image style on the control.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoImageBox.Image">
+	<summary>
+ Gets or sets the image on the control.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoImageBox.ShowBorder">
+	<summary>
+ Gets or sets indicating if the border should be showed, or not.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Go__YouTube_Snagger.GoRenderer.#ctor">
+	<summary>
+ Initialize a new instance of the GoRender class.
+ </summary>
+</member><member name="M:Go__YouTube_Snagger.GoRenderer.OnRenderArrow(System.Windows.Forms.ToolStripArrowRenderEventArgs)">
+	<summary>
+ Raises the RenderArrow event. 
+ </summary>
+	<param name="e">An ToolStripArrowRenderEventArgs containing the event data.</param>
+</member><member name="M:Go__YouTube_Snagger.GoRenderer.OnRenderButtonBackground(System.Windows.Forms.ToolStripItemRenderEventArgs)">
+	<summary>
+ Raises the RenderButtonBackground event. 
+ </summary>
+	<param name="e">An ToolStripItemRenderEventArgs containing the event data.</param>
+</member><member name="M:Go__YouTube_Snagger.GoRenderer.OnRenderDropDownButtonBackground(System.Windows.Forms.ToolStripItemRenderEventArgs)">
+	<summary>
+ Raises the RenderDropDownButtonBackground event. 
+ </summary>
+	<param name="e">An ToolStripItemRenderEventArgs containing the event data.</param>
+</member><member name="M:Go__YouTube_Snagger.GoRenderer.OnRenderItemCheck(System.Windows.Forms.ToolStripItemImageRenderEventArgs)">
+	<summary>
+ Raises the RenderItemCheck event. 
+ </summary>
+	<param name="e">An ToolStripItemImageRenderEventArgs containing the event data.</param>
+</member><member name="M:Go__YouTube_Snagger.GoRenderer.OnRenderItemText(System.Windows.Forms.ToolStripItemTextRenderEventArgs)">
+	<summary>
+ Raises the RenderItemText event. 
+ </summary>
+	<param name="e">An ToolStripItemTextRenderEventArgs containing the event data.</param>
+</member><member name="M:Go__YouTube_Snagger.GoRenderer.OnRenderItemImage(System.Windows.Forms.ToolStripItemImageRenderEventArgs)">
+	<summary>
+ Raises the RenderItemImage event. 
+ </summary>
+	<param name="e">An ToolStripItemImageRenderEventArgs containing the event data.</param>
+</member><member name="M:Go__YouTube_Snagger.GoRenderer.OnRenderMenuItemBackground(System.Windows.Forms.ToolStripItemRenderEventArgs)">
+	<summary>
+ Raises the RenderMenuItemBackground event. 
+ </summary>
+	<param name="e">An ToolStripItemRenderEventArgs containing the event data.</param>
+</member><member name="M:Go__YouTube_Snagger.GoRenderer.OnRenderSplitButtonBackground(System.Windows.Forms.ToolStripItemRenderEventArgs)">
+	<summary>
+ Raises the RenderSplitButtonBackground event. 
+ </summary>
+	<param name="e">An ToolStripItemRenderEventArgs containing the event data.</param>
+</member><member name="M:Go__YouTube_Snagger.GoRenderer.OnRenderStatusStripSizingGrip(System.Windows.Forms.ToolStripRenderEventArgs)">
+	<summary>
+ Raises the RenderStatusStripSizingGrip event. 
+ </summary>
+	<param name="e">An ToolStripRenderEventArgs containing the event data.</param>
+</member><member name="M:Go__YouTube_Snagger.GoRenderer.OnRenderToolStripContentPanelBackground(System.Windows.Forms.ToolStripContentPanelRenderEventArgs)">
+	<summary>
+ Raises the RenderToolStripContentPanelBackground event. 
+ </summary>
+	<param name="e">An ToolStripContentPanelRenderEventArgs containing the event data.</param>
+</member><member name="M:Go__YouTube_Snagger.GoRenderer.OnRenderSeparator(System.Windows.Forms.ToolStripSeparatorRenderEventArgs)">
+	<summary>
+ Raises the RenderSeparator event. 
+ </summary>
+	<param name="e">An ToolStripSeparatorRenderEventArgs containing the event data.</param>
+</member><member name="M:Go__YouTube_Snagger.GoRenderer.OnRenderToolStripBackground(System.Windows.Forms.ToolStripRenderEventArgs)">
+	<summary>
+ Raises the RenderToolStripBackground event. 
+ </summary>
+	<param name="e">An ToolStripRenderEventArgs containing the event data.</param>
+</member><member name="M:Go__YouTube_Snagger.GoRenderer.OnRenderImageMargin(System.Windows.Forms.ToolStripRenderEventArgs)">
+	<summary>
+ Raises the RenderImageMargin event. 
+ </summary>
+	<param name="e">An ToolStripRenderEventArgs containing the event data.</param>
+</member><member name="M:Go__YouTube_Snagger.GoRenderer.OnRenderToolStripBorder(System.Windows.Forms.ToolStripRenderEventArgs)">
+	<summary>
+ Raises the RenderToolStripBorder event. 
+ </summary>
+	<param name="e">An ToolStripRenderEventArgs containing the event data.</param>
+</member><member name="T:Go__YouTube_Snagger.GoRenderer">
+	<summary>
+ Draw ToolStrips using the GoRender.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoGroupBox.Font">
+	<summary>
+ Gets or sets the font color to the control.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoGroupBox.ForeColor">
+	<summary>
+ Gets or sets the fore color to the control.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoGroupBox.Title">
+	<summary>
+ Gets or sets the title to the control.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoGroupBox.BackgroundColor">
+	<summary>
+ Gets or sets the background color.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoGroupBox.BorderSize">
+	<summary>
+ Gets or sets the border size on the control.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoGroupBox.BorderColor">
+	<summary>
+ Gets or sets the border color on the control.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Go__YouTube_Snagger.GoColorTable.#ctor">
+	<summary>
+ Initialize a new instance of the GoRenderColorTable class.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.ButtonPressedGradientBegin">
+	<summary>
+ Gets the starting color of the gradient used when the button is pressed down.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.ButtonPressedGradientEnd">
+	<summary>
+ Gets the end color of the gradient used when the button is pressed down.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.ButtonPressedGradientMiddle">
+	<summary>
+ Gets the middle color of the gradient used when the button is pressed down.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.ButtonSelectedGradientBegin">
+	<summary>
+ Gets the starting color of the gradient used when the button is selected.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.ButtonSelectedGradientEnd">
+	<summary>
+ Gets the end color of the gradient used when the button is selected.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.ButtonSelectedGradientMiddle">
+	<summary>
+ Gets the middle color of the gradient used when the button is selected.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.ButtonSelectedHighlightBorder">
+	<summary>
+ Gets the border color to use with ButtonSelectedHighlight.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.CheckBackground">
+	<summary>
+ Gets the solid color to use when the check box is selected and gradients are being used.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.GripDark">
+	<summary>
+ Gets the color to use for shadow effects on the grip or move handle.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.GripLight">
+	<summary>
+ Gets the color to use for highlight effects on the grip or move handle.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.ImageMarginGradientBegin">
+	<summary>
+ Gets the starting color of the gradient used in the image margin of a ToolStripDropDownMenu.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.MenuBorder">
+	<summary>
+ Gets the border color or a MenuStrip.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.MenuItemPressedGradientBegin">
+	<summary>
+ Gets the starting color of the gradient used when a top-level ToolStripMenuItem is pressed down.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.MenuItemPressedGradientEnd">
+	<summary>
+ Gets the end color of the gradient used when a top-level ToolStripMenuItem is pressed down.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.MenuItemPressedGradientMiddle">
+	<summary>
+ Gets the middle color of the gradient used when a top-level ToolStripMenuItem is pressed down.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.MenuItemSelectedGradientBegin">
+	<summary>
+ Gets the starting color of the gradient used when the ToolStripMenuItem is selected.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.MenuItemSelectedGradientEnd">
+	<summary>
+ Gets the end color of the gradient used when the ToolStripMenuItem is selected.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.MenuStripGradientBegin">
+	<summary>
+ Gets the starting color of the gradient used in the MenuStrip.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.MenuStripGradientEnd">
+	<summary>
+ Gets the end color of the gradient used in the MenuStrip.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.OverflowButtonGradientBegin">
+	<summary>
+ Gets the starting color of the gradient used in the ToolStripOverflowButton.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.OverflowButtonGradientEnd">
+	<summary>
+ Gets the end color of the gradient used in the ToolStripOverflowButton.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.OverflowButtonGradientMiddle">
+	<summary>
+ Gets the middle color of the gradient used in the ToolStripOverflowButton.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.RaftingContainerGradientBegin">
+	<summary>
+ Gets the starting color of the gradient used in the ToolStripContainer.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.RaftingContainerGradientEnd">
+	<summary>
+ Gets the end color of the gradient used in the ToolStripContainer.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.SeparatorDark">
+	<summary>
+ Gets the color to use to for shadow effects on the ToolStripSeparator.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.SeparatorLight">
+	<summary>
+ Gets the color to use to for highlight effects on the ToolStripSeparator.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.StatusStripGradientBegin">
+	<summary>
+ Gets the starting color of the gradient used on the StatusStrip.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.StatusStripGradientEnd">
+	<summary>
+ Gets the end color of the gradient used on the StatusStrip.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.ToolStripBorder">
+	<summary>
+ Gets the border color to use on the bottom edge of the ToolStrip.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.ToolStripContentPanelGradientBegin">
+	<summary>
+ Gets the starting color of the gradient used in the ToolStripContentPanel.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.ToolStripContentPanelGradientEnd">
+	<summary>
+ Gets the end color of the gradient used in the ToolStripContentPanel.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.ToolStripDropDownBackground">
+	<summary>
+ Gets the solid background color of the ToolStripDropDown.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.ToolStripGradientBegin">
+	<summary>
+ Gets the starting color of the gradient used in the ToolStrip background.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.ToolStripGradientEnd">
+	<summary>
+ Gets the end color of the gradient used in the ToolStrip background.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.ToolStripGradientMiddle">
+	<summary>
+ Gets the middle color of the gradient used in the ToolStrip background.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.ToolStripPanelGradientBegin">
+	<summary>
+ Gets the starting color of the gradient used in the ToolStripPanel.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoColorTable.ToolStripPanelGradientEnd">
+	<summary>
+ Gets the end color of the gradient used in the ToolStripPanel.
+ </summary>
+</member><member name="T:Go__YouTube_Snagger.GoColorTable">
+	<summary>
+ Provide GoRender colors
+ </summary>
+</member><member name="M:Go__YouTube_Snagger.GrayScaleConverter.ColorImageToGrayScaleImage(System.Drawing.Image)">
+	<summary>
+ Converts an image to grayscale
+ </summary>
+	<param name="inputImage">The image to be converted.</param>
+	<returns>Return's the input image, but with grayscale</returns>
+	<remarks></remarks>
+</member><member name="M:Go__YouTube_Snagger.UseAntiAlias.#ctor(System.Drawing.Graphics)">
+	<summary>
+ Initialize a new instance of the UseAntiAlias class.
+ </summary>
+	<param name="g">Graphics instance.</param>
+</member><member name="M:Go__YouTube_Snagger.UseAntiAlias.Dispose">
+	<summary>
+ Revert the SmoothingMode back to original setting.
+ </summary>
+</member><member name="T:Go__YouTube_Snagger.UseAntiAlias">
+	<summary>
+ Set the SmoothingMode=AntiAlias until instance disposed.
+ </summary>
+</member><member name="M:Go__YouTube_Snagger.UseClearTypeGridFit.#ctor(System.Drawing.Graphics)">
+	<summary>
+ Initialize a new instance of the UseClearTypeGridFit class.
+ </summary>
+	<param name="g">Graphics instance.</param>
+</member><member name="M:Go__YouTube_Snagger.UseClearTypeGridFit.Dispose">
+	<summary>
+ Revert the TextRenderingHint back to original setting.
+ </summary>
+</member><member name="T:Go__YouTube_Snagger.UseClearTypeGridFit">
+	<summary>
+ Set the TextRenderingHint.ClearTypeGridFit until instance disposed.
+ </summary>
+</member><member name="M:Go__YouTube_Snagger.UseClipping.#ctor(System.Drawing.Graphics,System.Drawing.Drawing2D.GraphicsPath)">
+	<summary>
+ Initialize a new instance of the UseClipping class.
+ </summary>
+	<param name="g">Graphics instance.</param>
+	<param name="path">Clipping path.</param>
+</member><member name="M:Go__YouTube_Snagger.UseClipping.#ctor(System.Drawing.Graphics,System.Drawing.Region)">
+	<summary>
+ Initialize a new instance of the UseClipping class.
+ </summary>
+	<param name="g">Graphics instance.</param>
+	<param name="region">Clipping region.</param>
+</member><member name="M:Go__YouTube_Snagger.UseClipping.Dispose">
+	<summary>
+ Revert clipping back to origina setting.
+ </summary>
+</member><member name="T:Go__YouTube_Snagger.UseClipping">
+	<summary>
+ Set the clipping region until instance disposed.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.Object">
+	<summary>
+ Returns the GoTextBox.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.MaxLength">
+	<summary>
+ Gets or sets maximum length of the string in the textbox.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.UseFileNameCharacters">
+	<summary>
+ Gets or sets indicating if the textbox only should not allow the filename charaters.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.AutoCompleteSource">
+	<summary>
+ Gets or sets the AutoCompleteSource.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.AutoCompleteMode">
+	<summary>
+ Gets or sets the AutoCompleteMode.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.AutoCompleteCustomSource">
+	<summary>
+ Gets or sets the AutoCompleteCustomSource.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.Icon">
+	<summary>
+ Gets or sets the image to be previewed.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.ShowIsReadOnlyIcon">
+	<summary>
+ Gets or sets indicating if the read-only icon should be showed, or not.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.ShowCustomButtonIcon">
+	<summary>
+ Gets or sets indicating if the custom button icon should be showed, or not.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.ShowIcon">
+	<summary>
+ Gets or sets indicating if the icon should be showed, or not.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.CutRadius">
+	<summary>
+ Gets or sets the cut for the radius on the border.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.ContextMenuStrip">
+	<summary>
+ Gets or sets the context menu strip.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.UseSystemPasswordChar">
+	<summary>
+ Gets or sets indicating if the textbox should use the system password char, or not.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.PasswordChar">
+	<summary>
+ Gets or sets the password char.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.MultiLine">
+	<summary>
+ Gets or sets indicating if the textbox should be multiline, or not.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.ScrollBars">
+	<summary>
+ Gets or sets the scrollbars to the textbox.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.IsReadOnly">
+	<summary>
+ Gets or sets indicating if the textbox should be read only, or not.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.Text">
+	<summary>
+ Gets or sets the text to the control.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.BackgroundColor">
+	<summary>
+ Gets or sets the background color.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.NormalBorderColor">
+	<summary>
+ Gets or sets the normal border color.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.HoverBorderColor">
+	<summary>
+ Gets or sets the hover border color.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.SelectedBorderColor">
+	<summary>
+ Gets or sets the selected border color.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.DisabledBorderColor">
+	<summary>
+ Gets or sets the disabled border color.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.Disabled">
+	<summary>
+ Return's the control's disabled state.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.Selected">
+	<summary>
+ Return's the controls selected state.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.GoTextBox.Hover">
+	<summary>
+ Return's the controls hover state.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.VersionManager.RunningOnXP">
+	<summary>
+ Determines if the application is running on XP.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.VersionManager.RunningOnVista">
+	<summary>
+ Determines if the application is running on Vista.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.VersionManager.RunningOnWin7">
+	<summary>
+ Determines if the application is running on Windows 7.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.VersionManager.RunningOnWinXPOrUp">
+	<summary>
+ Determines if the application is running on Windows XP or up.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.VersionManager.RunningOnWinVistaOrUp">
+	<summary>
+ Determines if the application is running on Windows Vista or up.
+ </summary>
+</member><member name="P:Go__YouTube_Snagger.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Go__YouTube_Snagger.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Go__YouTube_Snagger.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Go__YouTube_Snagger.MessageBox.#ctor(System.String,Go__YouTube_Snagger.MessageBox.MessageButtons,Go__YouTube_Snagger.MessageBox.MessageIcons,System.String,System.Drawing.Icon,System.Boolean,System.Boolean)">
+	<summary>
+ Creates a new MessageBox.
+ </summary>
+	<param name="Message">The message to show.</param>
+	<param name="MessageButton">The button style.</param>
+	<param name="MessageIcon">The icon to show.</param>
+	<param name="Title">The title.</param>
+	<param name="Icon">The icon to the form.</param>
+	<param name="IsDoNotShowAgainCheckBoxChecked"></param>
+	<param name="ShowDoNotShowAgainCheckBox"></param>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.MessageBox.Message">
+	<summary>
+ Gets or sets the MessageBoxText.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.MessageBox.MessageTitle">
+	<summary>
+ Gets or sets the MessageTitle.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.MessageBox.MessageBoxIcon">
+	<summary>
+ Gets or sets the MessageBoxIcon.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.MessageBox.MessageIcon">
+	<summary>
+ Gets or sets the MessageIcon.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.MessageBox.MessageButton">
+	<summary>
+ Gets or sets the MessageButton.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.MessageBox.ShowDoNotShowAgainCheckBox">
+	<summary>
+ Gets or sets indicating if the DoNotShowAgainCheckBox is visible.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.MessageBox.IsDoNotShowAgainCheckBoxChecked">
+	<summary>
+ Gets the result of the DoNotShowAgainCheckBox.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Go__YouTube_Snagger.MessageBox.ShowDialog">
+	<summary>
+ Show's the MessageBoxDialog.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Go__YouTube_Snagger.ExtendedBinaryReader.#ctor(System.IO.Stream)">
+	<summary>
+   Creates a new instance of the <c>ExtendedBinaryReader</c> class.
+ </summary>
+	<param name="Input">A stream.</param>
+</member><member name="M:Go__YouTube_Snagger.ExtendedBinaryReader.#ctor(System.IO.Stream,System.Text.Encoding)">
+	<summary>
+   Creates a new instance of the <c>ExtendedBinaryReader</c> class.
+ </summary>
+	<param name="Input">The provided stream.</param>
+	<param name="Encoding">The character encoding.</param>
+</member><member name="M:Go__YouTube_Snagger.ExtendedBinaryReader.ReadToEnd">
+	<summary>
+   Reads the whole data in the base stream and returns it in an
+   array of bytes.
+ </summary>
+	<returns>The streams whole binary data.</returns>
+</member><member name="M:Go__YouTube_Snagger.ExtendedBinaryReader.ReadToEnd(System.Int32)">
+	<summary>
+   Reads the whole data in the base stream and returns it in an array of bytes.
+ </summary>
+	<param name="InitialLength">The initial buffer length.</param>
+	<returns>The stream's whole binary data.</returns>
+</member><member name="M:Go__YouTube_Snagger.IniFile.#ctor(System.String)">
+	<summary>
+ Initializes a new instance of the GoVisualTeam.IniFile class.
+ </summary>
+	<param name="Filename">The filename of the Inifile.</param>
+	<remarks></remarks>
+</member><member name="P:Go__YouTube_Snagger.IniFile.FileName">
+	<summary>
+ Return's the filename of the INI file.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Go__YouTube_Snagger.IniFile.GetString(System.String,System.String,System.String)">
+	<summary>
+ Returns a string from the INI file.
+ </summary>
+	<param name="Section">The selection to get the string from.</param>
+	<param name="Key">The key to get the string from.</param>
+	<param name="Default">The default value.</param>
+	<remarks></remarks>
+</member><member name="M:Go__YouTube_Snagger.IniFile.GetInteger(System.String,System.String,System.Int32)">
+	<summary>
+ Returns an integer from the INI file.
+ </summary>
+	<param name="Section">The selection to get the integer from.</param>
+	<param name="Key">The key to get the integer from.</param>
+	<param name="Default">The default value.</param>
+	<remarks></remarks>
+</member><member name="M:Go__YouTube_Snagger.IniFile.GetBoolean(System.String,System.String,System.Boolean)">
+	<summary>
+ Returns a boolean from the INI file.
+ </summary>
+	<param name="Section">The selection to get the boolean from.</param>
+	<param name="Key">The key to get the boolean from.</param>
+	<param name="Default">The default value.</param>
+	<remarks></remarks>
+</member><member name="M:Go__YouTube_Snagger.IniFile.WriteString(System.String,System.String,System.String)">
+	<summary>
+ Writes a string to the INI file.
+ </summary>
+	<param name="Section">The selection to write in. If it doesn't exist, it creates a new with the name.</param>
+	<param name="Key">The key to write.</param>
+	<param name="Value">The string value to write on the key.</param>
+	<remarks></remarks>
+</member><member name="M:Go__YouTube_Snagger.IniFile.WriteInteger(System.String,System.String,System.Int32)">
+	<summary>
+ Writes an integer to the INI file.
+ </summary>
+	<param name="Section">The selection to write in. If it doesn't exist, it creates a new with the name.</param>
+	<param name="Key">The key to write.</param>
+	<param name="Value">The integer value to write on the key.</param>
+	<remarks></remarks>
+</member><member name="M:Go__YouTube_Snagger.IniFile.WriteBoolean(System.String,System.String,System.Boolean)">
+	<summary>
+ Writes a boolean to the INI file.
+ </summary>
+	<param name="Section">The selection to write in. If it doesn't exist, it creates a new with the name.</param>
+	<param name="Key">The key to write.</param>
+	<param name="Value">The boolean value to write on the key.</param>
+	<remarks></remarks>
+</member><member name="M:Go__YouTube_Snagger.IniFile.Flush">
+	<summary>
+ Stores all the cached changes to the INI file.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
